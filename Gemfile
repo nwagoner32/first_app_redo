@@ -13,6 +13,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap', '4.0.0.alpha6'
 gem 'jquery-rails'
 gem 'devise'
+gem 'nokogiri'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
